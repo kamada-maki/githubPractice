@@ -1,3 +1,8 @@
 # githubPractice
 
-#mainブランチ変更2
+
+#練習１
+
+#mainブランチ変更
+
+
